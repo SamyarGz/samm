@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot",
-  "description": "Whatsapp Bot build with Nodejs",
-  "repository": "https://github.com/xrutzmalesin/XrutzB0t",
-  "logo": "https://telegra.ph/file/dbf39a185647132129f3f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+	"clientID": "mi0pX2bl4EjNYo37PkjUcg==",
+	"serverToken": "1@0x3BuAcpx+6as1h4zYtFUPeUJEv0XKto8yxP1og3tXCh7zAWyQs8wRt9YAUbggRsNILUdCJQIsyeQA==",
+	"clientToken": "dmKOoyYsgQDmJQ/udd6YrXX0tfH0+IHw3fkyGBFmCCg=",
+	"encKey": "FcZrCtbececo5jf1Vi2hIbVyKYYZFOK+5VL3vkezw/I=",
+	"macKey": "r++HOpgW1gFuQAWa2yWv5jKjEp2BImGk2ji9/683D/c="
 }
